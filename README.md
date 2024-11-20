@@ -8,5 +8,5 @@ We have all come across ATMs in our cities and it is built on Java. This complex
 4)Transfer 
 5)Quit
 
-upload vedio product for showing example
-https://github.com/shirishaNeelamsetti/oasis_ATM/issues/1#issue-2675245051
+
+https://github.com/user-attachments/assets/b3129243-3408-4f43-9fab-c93ebf8ea12b
